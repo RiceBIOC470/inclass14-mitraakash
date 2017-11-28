@@ -1,5 +1,9 @@
 %Akash Mitra
 %am132
+%GB comments
+1 100 
+2a 100 
+2b 100
 
 %Inclass 14
 
